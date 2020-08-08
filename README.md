@@ -2,5 +2,5 @@
 
 ## Logistic Regression Vs KNN Classifier
 
-### LR  : 96.4
-### KNN : 98.24
+### LR Accuracy  : 96.4
+### KNN Accuracy : 98.24
